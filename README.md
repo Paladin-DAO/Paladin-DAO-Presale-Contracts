@@ -17,6 +17,8 @@ The contracts are written by industry experts who has knowledge on the best prac
 
 ## Gnosis Multisign Wallet
 
+### For more information visit https://gnosis-safe.io/
+
 ### Gnosis Proxy
 ![This is an image](https://i.stack.imgur.com/THTlh.png)
 
