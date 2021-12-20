@@ -1,5 +1,7 @@
 # Paladin-DAO-Presale-Contracts
 
+The contracts are written by industry experts who has knowledge on the best practices in blockchain development.
+
 ![This is an image](https://miro.medium.com/max/1400/1*pG2kVdA8V4eLLPXJzDqn-g.png)
 
 ## Launch Phases
